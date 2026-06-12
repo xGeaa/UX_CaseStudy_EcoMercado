@@ -65,7 +65,7 @@ UX_CaseStudy_EcoMercado/
 
 ## 📄 Informe completo
 
-El documento PDF generado a partir de LaTeX con el análisis completo está disponible en [`informe/informe_final.pdf`](./informe_final.pdf).
+El documento PDF generado a partir de LaTeX con el análisis completo está disponible en [`/informe_final.pdf`](./informe_final.pdf).
 
 ---
 
