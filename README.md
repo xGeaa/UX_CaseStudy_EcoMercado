@@ -29,6 +29,7 @@ UX_CaseStudy_EcoMercado/
 │
 ├── parteI-miExperienciaUX/
 │   └── README.md                    ← Portfolio UX personal
+│   └── mi_Experiencia_UX.pdf        ← Documento completo en formato LaTeX 
 │
 ├── parteII-propuestaEcoMercado/
 │   ├── README.md                    ← Análisis, insights y propuesta de diseño
