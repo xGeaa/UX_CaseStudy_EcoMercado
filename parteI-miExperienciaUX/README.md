@@ -60,7 +60,7 @@ Ya no elegía una tipografía (como Cabin) o un color (como el marrón cálido) 
 
 Terminamos en la P5 evaluando el diseño con un cuestionario SUS. Aunque los usuarios eran del todo adecuados, me sirvió para entender cómo medir la experiencia de forma estandarizada. Además, evaluar el Caso B de otro grupo me obligó a ponerme las gafas de crítico y analizar el trabajo ajeno con objetividad.
 
-Una de las técnicas que más me llamó la atención durante las prácticas fue el uso de mapas de calor para evaluar el diseño. Creamos tres usuarios y simulamos cómo cada uno de ellos recorrería visualmente las diferentes páginas de Al Burguers, obteniendo como resultado mapas de calor que mostraban las zonas de mayor y menor atención.  
+Una de las técnicas que más me llamó la atención durante las prácticas fue el uso de mapas de calor con EyeTracking para evaluar el diseño. Creamos tres usuarios y simulamos cómo cada uno de ellos recorrería visualmente las diferentes páginas de Al Burguers, obteniendo como resultado mapas de calor que mostraban las zonas de mayor y menor atención.  
 
 Lo que más sorprende de esta técnica es lo que revela sobre la diferencia entre cómo el diseñador cree que el usuario va a mirar su interfaz y cómo la mira realmente. Hay elementos en los que pones mucho esfuerzo de diseño que el usuario simplemente ignora, y otros que concentran toda la atención sin que lo hayas planificado así. Eso tiene consecuencias directas: si una llamada a la acción clave cae fuera de las zonas calientes, es invisible para el usuario aunque esté perfectamente diseñada.  
 
