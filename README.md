@@ -31,12 +31,19 @@ UX_CaseStudy_EcoMercado/
 │   └── README.md                    ← Portfolio UX personal
 │   └── mi_Experiencia_UX.pdf        ← Documento completo en formato LaTeX 
 │
-├── parteII-propuestaEcoMercado/
-│   ├── README.md                    ← Análisis, insights y propuesta de diseño
-│   ├── analisis/                    ← Capturas, tablas heurísticas, evaluación
-│   └── mockups/                     ← Bocetos y wireframes de la propuesta
-│
-└── informe_final.pdf			     ← Documento completo en formato LaTeX
+└── parteII-propuestaEcoMercado/
+    │
+    ├── README.md                  ← índice y resumen de la parte II
+    ├── analisis/
+    │   ├── README.md              ← Análisis completo de Huerta Madrid
+    │   └── capturas/              ← Capturas del análisis
+    ├── propuesta/
+    │   ├── README.md              ← Insights + propuesta de valor EcoMercado
+    │   └── wireframes/            ← Bocetos/Mockups
+    └── autoevaluacion/
+        └── README.md              ← autoevaluación final
+
+
 
 ```
 
@@ -64,9 +71,6 @@ UX_CaseStudy_EcoMercado/
 
 ---
 
-## 📄 Informe completo
-
-El documento PDF generado a partir de LaTeX con el análisis completo está disponible en [`/informe_final.pdf`](./informe_final.pdf).
 
 ---
 
