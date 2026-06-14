@@ -74,4 +74,5 @@ UX_CaseStudy_EcoMercado/
 
 ---
 
-*Universidad de Granada · DIU 2025/26*
+*Alejandro Gea Martínez · DIU · Curso 2025/26*
+*Universidad de Granada, ETSIIT*
