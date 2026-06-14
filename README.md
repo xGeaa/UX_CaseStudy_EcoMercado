@@ -33,15 +33,15 @@ UX_CaseStudy_EcoMercado/
 │
 └── parteII-propuestaEcoMercado/
     │
-    ├── README.md                  ← índice y resumen de la parte II
+    ├── README.md                    ← Indice y resumen de la parte II
     ├── analisis/
-    │   ├── README.md              ← Análisis completo de Huerta Madrid
-    │   └── capturas/              ← Capturas del análisis
+    │   ├── README.md                ← Análisis completo de Huerta Madrid
+    │   └── capturas/                ← Capturas de pantalla de la web analizada
     ├── propuesta/
-    │   ├── README.md              ← Insights + propuesta de valor EcoMercado
-    │   └── wireframes/            ← Bocetos/Mockups
+    │   ├── README.md                ← Insights + propuesta de valor + diseño app
+    │   └── wireframes/              ← Bocetos y wireframes de la app EcoMercado UGR
     └── autoevaluacion/
-        └── README.md              ← autoevaluación final
+        └── README.md                ← Autoevaluación y conexión con prácticas
 
 
 
