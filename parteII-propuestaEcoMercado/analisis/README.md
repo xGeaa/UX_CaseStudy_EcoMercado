@@ -32,15 +32,15 @@ Aplico las **10 heurísticas de Nielsen** con una escala de severidad del 0 al 4
 | # | Heurística | Observación | Severidad |
 |---|---|---|---|
 | 1 | Visibilidad del estado del sistema | No hay indicadores de progreso ni confirmaciones claras durante el proceso de compra. El usuario no sabe en qué punto está. | 3 |
-| 2 | Coincidencia con el mundo real | El lenguaje es cercano y natural, lo cual está bien. Sin embargo, en la tienda online no queda claro si estás comprando una pieza, un kilo o una bolsa de cada producto, algo crítico en una tienda de alimentación. | 3 |
+| 2 | Coincidencia con el mundo real | El lenguaje es cercano y natural, lo cual está bien. Sin embargo, en la tienda online no queda claro si estás comprando una pieza, un kilo o una bolsa de cada producto, algo crítico en una tienda de alimentación. [→ Ver captura](capturas/04_tienda_unidades_confusas.png) | 3 |
 | 3 | Control y libertad del usuario | La vía de compra por Excel, aunque está rota (ver heurística 5), plantea un flujo en el que el usuario tiene muy poco control una vez enviado el pedido por email. La tienda online sí permite modificar el carrito. | 2 |
-| 4 | Consistencia y estándares | El diseño visual es bastante consistente en general. Sin embargo, algunas imágenes de producto no se corresponden con lo que se vende: por ejemplo, las cajas de fruta de temporada de distintos tamaños comparten exactamente la misma foto, lo que genera desconfianza. | 2 |
-| 5 | Prevención de errores | **Problema crítico:** el enlace al proceso de compra por Excel lleva a una página de error (404 — página no encontrada). El usuario que intenta comprar por esa vía queda bloqueado sin ningún aviso previo. | 4 |
-| 6 | Reconocimiento antes que recuerdo | El proceso de compra por Excel requiere que el usuario recuerde rellenar un archivo y enviarlo por correo, lo que supone una carga de memoria totalmente fuera de lo habitual. La tienda online mejora esto, pero sigue sin dejar claro qué unidad se está comprando en cada producto. | 3 |
+| 4 | Consistencia y estándares | El diseño visual es bastante consistente en general. Sin embargo, algunas imágenes de producto no se corresponden con lo que se vende: por ejemplo, las cajas de fruta de temporada de distintos tamaños comparten exactamente la misma foto, lo que genera desconfianza. [→ Ver captura](capturas/05_cajas_fruta_misma_foto.png) | 2 |
+| 5 | Prevención de errores | **Problema crítico:** el enlace al proceso de compra por Excel lleva a una página de error (404 — página no encontrada). El usuario que intenta comprar por esa vía queda bloqueado sin ningún aviso previo. [→ Ver captura](capturas/03_error_404_excel.png) | 4 |
+| 6 | Reconocimiento antes que recuerdo | El proceso de compra por Excel requiere que el usuario recuerde rellenar un archivo y enviarlo por correo, lo que supone una carga de memoria totalmente fuera de lo habitual. La tienda online mejora esto, pero sigue sin dejar claro qué unidad se está comprando en cada producto.  [→ Ver captura](capturas/04_tienda_unidades_confusas.png) | 3 |
 | 7 | Flexibilidad y eficiencia de uso | No hay atajos ni funciones avanzadas para usuarios expertos. La web funciona de la misma manera para todos. | 1 |
-| 8 | Estética y diseño minimalista | Visualmente la web es agradable, pero en escritorio el layout de ancho fijo deja grandes márgenes laterales vacíos que hacen que el contenido parezca flotando en el centro. No es un problema grave, pero sí reduce la percepción de calidad. | 2 |
-| 9 | Ayuda a reconocer y recuperarse de errores | El error 404 del enlace roto no ofrece ninguna alternativa ni explicación. El usuario simplemente ve "página no encontrada" y no sabe qué hacer a continuación. | 4 |
-| 10 | Ayuda y documentación | Existe una sección "Cómo comprar" con bastante información, aunque el proceso que describe (Excel + email) resulta anacrónico y puede confundir más que ayudar a alguien que espera una compra online normal. | 2 |
+| 8 | Estética y diseño minimalista | Visualmente la web es agradable, pero en escritorio el layout de ancho fijo deja grandes márgenes laterales vacíos que hacen que el contenido parezca flotando en el centro. No es un problema grave, pero sí reduce la percepción de calidad. [→ Ver captura](capturas/01_home_escritorio_margenes.png)| 2 |
+| 9 | Ayuda a reconocer y recuperarse de errores | El error 404 del enlace roto no ofrece ninguna alternativa ni explicación. El usuario simplemente ve "página no encontrada" y no sabe qué hacer a continuación. [→ Ver captura](capturas/03_error_404_excel.png) | 4 |
+| 10 | Ayuda y documentación | Existe una sección "Cómo comprar" con bastante información, aunque el proceso que describe (Excel + email) resulta difícil y puede confundir más que ayudar a alguien que espera una compra online normal. [→ Ver captura](capturas/06_como_comprar.png)| 2 |
 
 **Problemas más graves:**
 - 🔴 Enlace roto (404) en el flujo de compra por Excel — viola heurísticas 5 y 9
@@ -96,7 +96,7 @@ Reviso los cuatro principios **POUR** de las pautas WCAG 2.1 (W3C, 2018):
 
 | Aspecto | Escritorio | Móvil |
 |---|---|---|
-| Layout | Ancho fijo centrado, grandes márgenes vacíos a los lados | Contenido sin márgenes laterales, sensación de agobio |
+| Layout | Ancho fijo centrado, grandes márgenes vacíos a los lados | Contenido sin márgenes laterales que fomenta sensación de agobio  [→ Ver captura](capturas/02_home_movil_agobio.jpg) |
 | Navegación | Menú horizontal accesible | Menú hamburguesa funcional |
 | Imágenes | Bien dimensionadas | Se escalan correctamente |
 | Proceso de compra | Enlace Excel roto (404), pero tienda online disponible y funcional | Tienda online funcional y razonablemente usable |
