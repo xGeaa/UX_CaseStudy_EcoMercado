@@ -96,7 +96,7 @@ Reviso los cuatro principios **POUR** de las pautas WCAG 2.1 (W3C, 2018):
 
 | Aspecto | Escritorio | Móvil |
 |---|---|---|
-| Layout | Ancho fijo centrado, grandes márgenes vacíos a los lados | Contenido sin márgenes laterales que fomenta sensación de agobio  [→ Ver captura](capturas/02_home_movil_agobio.jpg) |
+| Layout | Ancho fijo centrado, grandes márgenes vacíos a los lados | Contenido sin apenas márgenes laterales que fomenta sensación de agobio  [→ Ver captura](capturas/02_home_movil_agobio.jpg) |
 | Navegación | Menú horizontal accesible | Menú hamburguesa funcional |
 | Imágenes | Bien dimensionadas | Se escalan correctamente |
 | Proceso de compra | Enlace Excel roto (404), pero tienda online disponible y funcional | Tienda online funcional y razonablemente usable |
@@ -116,7 +116,7 @@ Lo que más llama la atención del responsive es que la web parece diseñada con
 - La tienda online ofrece una alternativa de compra más estándar que el proceso por Excel
 
 ### ❌ Lo que no funciona
-- Enlace roto (404) que bloquea el flujo de compra por Excel — problema crítico
+- Enlace roto (404) que bloquea el flujo de compra por Excel. Problema crítico
 - Proceso de compra por Excel completamente fuera de los estándares actuales
 - Falta de información sobre unidades de producto en la tienda online
 - Imágenes que no se corresponden con el producto real
@@ -131,7 +131,7 @@ Del análisis anterior saco cinco conclusiones que van a guiar la propuesta de d
 
 1. **El flujo de consulta e información tiene que ser inmediato.** El usuario del EcoMercado llega con una pregunta concreta: ¿cuándo es el próximo mercado y dónde? Eso tiene que estar visible sin necesidad de buscar.
 2. **El diseño tiene que ser mobile-first.** El público universitario consulta todo desde el móvil. No se puede diseñar para escritorio y adaptar después.
-3. **Si hay información sobre productos, tiene que ser clara y sin ambigüedad.** Unidades, precios, productores — todo visible y sin lugar a confusión.
+3. **Si hay información sobre productos, tiene que ser clara y sin ambigüedad.** Unidades, precios, productores. Todo visible y sin lugar a confusión.
 4. **La identidad visual tiene que transmitir proximidad y sostenibilidad** sin caer en el espacio vacío que aporta una sensación de no ser una web "muy trabajada".
 5. **La accesibilidad tiene que planificarse desde el principio**, no como un parche posterior.
 
