@@ -54,9 +54,9 @@ Antes de ponerse a diseñar pantallas, conviene tener muy claro qué problema re
 
 ### 4.1 Sitemap
 
-La app se organiza en cuatro secciones accesibles desde la barra de navegación inferior. La estructura es sencilla y reconocible — exactamente lo que necesita un perfil como Marcos para no perderse:
+La app se organiza en cuatro secciones accesibles desde la barra de navegación inferior. La estructura es sencilla y reconocible. Exactamente lo que necesita un perfil como Marcos para no perderse:
 
-
+[→ Ver captura](arquitectura-de-informacion/sitemap.png)
 
 ### 4.2 User Flow principal — Reservar un producto
 
