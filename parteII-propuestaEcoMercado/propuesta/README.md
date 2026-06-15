@@ -62,7 +62,7 @@ La app se organiza en cuatro secciones accesibles desde la barra de navegación 
 
 El flujo más importante de la app tiene que ser tan claro que Marcos pueda seguirlo sin ayuda la primera vez que lo usa:
 
-
+[→ Ver captura](arquitectura-de-informacion/userflow_01_reservar_un_producto.png)
 
 Cada paso tiene una sola acción posible. No hay bifurcaciones confusas ni decisiones técnicas que el usuario no sepa tomar.
 
@@ -70,7 +70,7 @@ Cada paso tiene una sola acción posible. No hay bifurcaciones confusas ni decis
 
 Al igual que el flujo anterior, con una sencilla serie de pasos una persona que no sea nativa digital podría conseguir este objetivo:
 
-
+[→ Ver captura](arquitectura-de-informacion/userflow_02_inscribirse_a_una_actividad.png)
 
 Como antes, no hay elecciones complejas, simplemente vamos directos al grano.
 
@@ -97,19 +97,24 @@ Las decisiones de diseño visual están pensadas para transmitir los valores del
 ### 5.2 Pantallas principales
 
 **Pantalla 1 — Inicio**
-Lo primero que ve el usuario es la respuesta a la pregunta más urgente: ¿cuándo es el próximo mercado? Un contador grande en la parte superior, con la fecha, hora y lugar del próximo mercado bien visibles. Debajo, un acceso directo al catálogo de esta edición. Para Laura, es suficiente para planificar. Para Marcos, es suficiente para saber si puede ir.
+Lo primero que ve el usuario es la respuesta a la pregunta más urgente: ¿cuándo es el próximo mercado? Un contador grande en la parte superior, con la fecha, hora y lugar del próximo mercado bien visibles. Debajo, un acceso directo al catálogo de esta edición. Para Laura, es suficiente para planificar. Para Marcos, es suficiente para saber si puede ir.  
+[→ Ver captura](wireframes/01_inicio.png)
 
 **Pantalla 2 — Catálogo de productores**
-Lista de productores con foto, nombre y una línea de descripción de qué traen. Al pulsar en uno se abre su ficha completa: quién es, de dónde viene y qué productos trae. El objetivo es que el usuario conozca a las personas detrás de los productos; algo que diferencia al EcoMercado de cualquier supermercado y que en este diseño puede funcionar al buscar ese acercamiento del campo a la mesa.
+Lista de productores con foto, nombre y una línea de descripción de qué traen. Al pulsar en uno se abre su ficha completa: quién es, de dónde viene y qué productos trae. El objetivo es que el usuario conozca a las personas detrás de los productos; algo que diferencia al EcoMercado de cualquier supermercado y que en este diseño puede funcionar al buscar ese acercamiento del campo a la mesa.  
+[→ Ver captura](wireframes/02_productores.png)
 
 **Pantalla 3 — Ficha de producto**
-Aquí está uno de los aprendizajes directos del análisis de Nuestras Huertas: la ambigüedad sobre qué se está comprando es un problema importante. En esta app, cada producto muestra de forma clara y explícita la foto real del producto, el nombre, el productor, la unidad de venta (ej. "bolsa de 500g", "docena de huevos", "1 kg"), el precio y la disponibilidad. Sin lugar a confusión.
+Aquí está uno de los aprendizajes directos del análisis de Nuestras Huertas: la ambigüedad sobre qué se está comprando es un problema importante. En esta app, cada producto muestra de forma clara y explícita la foto real del producto, el nombre, el productor, la unidad de venta (ej. "bolsa de 500g", "docena de huevos", "1 kg"), el precio y la disponibilidad. Sin lugar a confusión.  
+[→ Ver captura](wireframes/03_ficha_productos.png)
 
 **Pantalla 4 — Actividades**
-Los talleres y charlas son una parte importante del EcoMercado que en la mayoría de webs de referencia queda en segundo plano. Aquí tienen su propia sección, con hora, descripción breve y opción de apuntarse. Para Laura es un valor añadido; para Marcos puede ser la razón por la que decida ir.
+Los talleres y charlas son una parte importante del EcoMercado que en la mayoría de webs de referencia queda en segundo plano. Aquí tienen su propia sección, con hora, descripción breve y opción de apuntarse. Para Laura es un valor añadido; para Marcos puede ser la razón por la que decida ir.  
+[→ Ver captura](wireframes/04_actividades.png)
 
 **Pantalla 5 — Mis reservas**
-Resumen claro de lo que el usuario ha reservado para el próximo mercado. Puede modificar o cancelar antes del día del mercado. El día anterior llega una notificación de recordatorio con el resumen del pedido. Simple, sin sorpresas.
+Resumen claro de lo que el usuario ha reservado para el próximo mercado. Puede modificar o cancelar antes del día del mercado. El día anterior llega una notificación de recordatorio con el resumen del pedido. Simple, sin sorpresas.  
+[→ Ver captura](wireframes/05_mis_reservas.png)
 
 ### 5.3 Accesibilidad desde el principio
 
@@ -122,7 +127,6 @@ A diferencia de lo que encontré en Nuestras Huertas, aquí la accesibilidad se 
 
 ---
 
-*Los wireframes de las pantallas descritas están disponibles en la carpeta [`wireframes/`](./wireframes/).*
 
 ---
 
