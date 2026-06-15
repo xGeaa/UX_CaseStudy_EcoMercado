@@ -1,7 +1,7 @@
 # Propuesta de diseño — App EcoMercado UGR
 
 > Insights, propuesta de valor y diseño de interfaz móvil  
-> Basada en el análisis de Huerta Madrid — DIU 2025/26
+> Basada en el análisis de Huerta Madrid 
 
 ---
 
