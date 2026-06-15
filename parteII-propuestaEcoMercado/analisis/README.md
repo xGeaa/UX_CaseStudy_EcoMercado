@@ -1,4 +1,4 @@
-# Análisis UX: Huerta Madrid [nuestrashuertas.com](nuestrashuertas.com)
+# Análisis UX: nuestrashuertas.com
 
 > Evaluación heurística, accesibilidad, responsive y experiencia de usuario  
 > Referente de análisis para la propuesta EcoMercado UGR 
