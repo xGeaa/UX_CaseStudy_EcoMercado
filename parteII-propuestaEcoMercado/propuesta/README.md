@@ -84,7 +84,7 @@ Las decisiones de diseño visual están pensadas para transmitir los valores del
 
 **Paleta de color:**
 - Verde oscuro (`#2D6A4F`) como color principal — naturaleza y sostenibilidad sin parecer clínico
-- Beige cálido (`#F4ECD8`) como fondo — evoca lo artesanal y lo orgánico, fácil de leer
+- Beige cálido (`#F4ECD8`) como fondo — recuerda a lo artesanal y lo orgánico, fácil de leer
 - Naranja tierra (`#E07B39`) para los botones de acción — llama la atención sin ser agresivo
 - Otros colores secundarios como marrón tierra (`#3A2E1A`) o el verde menta pastel (`#E8F5EE`)
 
