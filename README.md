@@ -25,23 +25,24 @@ El enfoque adoptado es el de un **experto en UX**, aplicando metodologías y cri
 ```
 UX_CaseStudy_EcoMercado/
 │
-├── README.md                        ← Este archivo (portada del proyecto)
+├── README.md                             ← Este archivo (portada del proyecto)
 │
 ├── parteI-miExperienciaUX/
-│   └── README.md                    ← Portfolio UX personal
-│   └── mi_Experiencia_UX.pdf        ← Documento completo en formato LaTeX 
+│   └── README.md                         ← Portfolio UX personal
+│   └── mi_Experiencia_UX.pdf             ← Documento completo en formato LaTeX 
 │
 └── parteII-propuestaEcoMercado/
     │
-    ├── README.md                    ← Indice y resumen de la parte II
+    ├── README.md                         ← Indice y resumen de la parte II
     ├── analisis/
-    │   ├── README.md                ← Análisis completo de Huerta Madrid
-    │   └── capturas/                ← Capturas de pantalla de la web analizada
+    │   ├── README.md                     ← Análisis completo de Huerta Madrid
+    │   └── capturas/                     ← Capturas de pantalla de la web analizada
     ├── propuesta/
-    │   ├── README.md                ← Insights + propuesta de valor + diseño app
-    │   └── wireframes/              ← Bocetos y wireframes de la app EcoMercado UGR
+    │   ├── README.md                     ← Insights + propuesta de valor + diseño app
+    │   └── wireframes/                   ← Bocetos y wireframes de la app EcoMercado UGR
+    │   └── arquitectura-de-informacion/  ← Sitemaps y Userflows usados para el diseño
     └── autoevaluacion/
-        └── README.md                ← Autoevaluación y conexión con prácticas
+        └── README.md                     ← Autoevaluación y conexión con prácticas
 
 
 
