@@ -4,7 +4,7 @@
 > E.T.S.I.I.T. · Universidad de Granada
 
 **Autor:** Alejandro Gea Martínez  
-**Fecha de entrega:** 16 de junio de 2025  
+**Fecha de entrega:** 16 de junio de 2026
 **Asignatura:** Diseño de Interfaces de Usuario 
 
 ---
