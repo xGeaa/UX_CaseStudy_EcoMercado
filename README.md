@@ -14,7 +14,7 @@
 Este repositorio recoge el trabajo final de la asignatura DIU, estructurado en dos partes:
 
 - **Parte I:** Portfolio personal de experiencia en UX/UI/Usabilidad, con una autovaloración crítica y justificada de las competencias adquiridas a lo largo del curso.
-- **Parte II:** Análisis experto de un caso real de mercado ecológico online ([Huerta Madrid](https://www.nuestrashuertas.com/)), extracción de insights y propuesta de diseño para el **EcoMercado UGR**.
+- **Parte II:** Análisis experto de un caso real de mercado ecológico online ([Nuestras Huertas](https://www.nuestrashuertas.com/)), extracción de insights y propuesta de diseño para el **EcoMercado UGR**.
 
 El enfoque adoptado es el de un **experto en UX**, aplicando metodologías y criterios estudiados en la asignatura: heurísticas de Nielsen, principios de accesibilidad WCAG, diseño centrado en el usuario, arquitectura de información y prototipado.
 
