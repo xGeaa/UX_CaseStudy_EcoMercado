@@ -29,7 +29,6 @@ parteII-propuestaEcoMercado/
 │   ├── README.md                     ← Análisis completo de Huerta Madrid
 │   └── capturas/                     ← Capturas de pantalla de la web analizada
 │   └── análisis.pdf                  ← Documento completo en formato LaTeX
-
 │
 ├── propuesta/
 │   ├── README.md                     ← Insights + propuesta de valor + diseño app
