@@ -1,6 +1,6 @@
 # Parte I: Mi Experiencia UX
 
-> Portfolio personal de interfaces, usabilidad y experiencia de usuario — DIU 2025/26
+> Portfolio personal de interfaces, usabilidad y experiencia de usuario 
 
 ---
 
