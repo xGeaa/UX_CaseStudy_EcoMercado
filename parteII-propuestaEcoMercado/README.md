@@ -23,15 +23,23 @@ Todo el análisis se realiza con criterios de experto, aplicando herramientas y 
 ```
 parteII-propuestaEcoMercado/
 │
-├── README.md                  ← Este archivo (índice y resumen)
+├── README.md                         ← Este archivo (índice y resumen)
+│
 ├── analisis/
-│   ├── README.md              ← Análisis completo de Huerta Madrid
-│   └── capturas/              ← Capturas de pantalla de la web analizada
+│   ├── README.md                     ← Análisis completo de Huerta Madrid
+│   └── capturas/                     ← Capturas de pantalla de la web analizada
+│   └── análisis.pdf                  ← Documento completo en formato LaTeX
+
+│
 ├── propuesta/
-│   ├── README.md              ← Insights + propuesta de valor + diseño app
-│   └── wireframes/            ← Bocetos y wireframes de la app EcoMercado UGR
+│   ├── README.md                     ← Insights + propuesta de valor + diseño app
+│   └── wireframes/                   ← Bocetos y wireframes de la app EcoMercado UGR
+│   └── arquitectura-de-informacion/  ← Capturas de pantalla de la web analizada
+│   └── propuesta.pdf                 ← Documento completo en formato LaTeX
+│
 └── autoevaluacion/
-    └── README.md              ← Autoevaluación y conexión con prácticas
+    └── README.md                     ← Autoevaluación y conexión con prácticas
+    └── autoevaluacion.pdf            ← Documento completo en formato LaTeX
 ```
 
 ---
